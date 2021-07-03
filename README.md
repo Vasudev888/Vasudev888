@@ -1,7 +1,7 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)
 
-<!-- ![Alt Text](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif) -->
-<img src="https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif" width="800" height="800" />
+<p align="center">![Alt Text](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif)</p>
+<!-- <img src="https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif" width="800" height="800" /> -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudev888)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=vasudev888&theme=highcontrast" alt="GitHub Streak" /></p>
