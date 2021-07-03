@@ -1,6 +1,6 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)
 
-![Alt Text](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif)
+<!-- ![Alt Text](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif) -->
 <img src="https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif" width="200" height="200" />
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudev888)](https://github.com/anuraghazra/github-readme-stats) -->
