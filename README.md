@@ -16,13 +16,12 @@
     <img align="center" src="https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey" /> </a>
 </p>
 
-<p align="center">![alt text](https://github-readme-stats.vercel.app/api?username=vasudev888&theme=synthwave &show_icons=true)</p>
 <p align="center">
 <a href="https://github.com/vasudev888">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev888&execlud=PyGameJam&langs_count=7&layout=compact&hide=ASP.net,ShaderLab,hlsl&theme=material-palenight" /> </a>
  <br>
 <a href="https://github.com/vasudev888">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudev888&hide_title=true&show_icons=true&theme=material-palenight" /> </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudev888&hide_title=true&show_icons=true&theme=radical" /> </a>
 <br>
 
 <!-- <a href="https://github.com/Vasudev888/TapShift">
