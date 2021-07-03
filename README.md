@@ -19,7 +19,7 @@
     <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a>  -->
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudev888&show_icons=true&locale=en" alt="vasudev888" /></p>
+
 
 
 
@@ -33,10 +33,10 @@
  <a href="https://unity.com/">
     <img align="center" src="https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey" /> </a>
 </p>
-
+<!-- PyGameJam&langs_count=7 -->
 <p align="center">
 <a href="https://github.com/vasudev888">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev888&execlud=PyGameJam&langs_count=7&layout=compact&hide=ASP.net,ShaderLab,hlsl&theme=synthwave" /> </a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev888&execlud=github-readme-stats&layout=compact&hide=ASP.net,ShaderLab,hlsl&theme=synthwave" /> </a>
  <br>
 <a href="https://github.com/vasudev888">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudev888&hide_title=true&show_icons=true&theme=radical" /> </a>
