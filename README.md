@@ -1,4 +1,4 @@
-# <p align="center"> Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green) ![Alt Text](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif)</p>
+# <p align="center"> Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green) ![vasudev888](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif)</p>
 
 
 
