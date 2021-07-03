@@ -20,7 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudev888&hide_title=true&show_icons=true&theme=material-palenight" /> </a>
 <br>
 
-<a href="https://github.com/Vasudev888/TapShift">
+<!-- <a href="https://github.com/Vasudev888/TapShift">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasudev888&repo=TapShift&theme=material-palenight" /> </a>
 <a href="https://github.com/Vasudev888/TankRaider">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasudev888&repo=TankRaider&theme=material-palenight&discreption=" /> </a>
@@ -29,7 +29,7 @@
 <a href="https://github.com/Vasudev888/TipTap-3D">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasudev888&repo=TipTap-3D&theme=material-palenight&discreption=" /> </a>
 </p>
-
+ -->
 
 
 
