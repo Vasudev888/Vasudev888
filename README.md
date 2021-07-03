@@ -1,8 +1,9 @@
 <!-- ![vasudev888](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif) -->
 <!-- ![vasudev888](<img src="https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif" width="800" height="400"/>) -->
-# <p align="center"> Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)</p>
+# <p align="center"> Hi there 👋 </p>
 
  ![Profile views](https://gpvc.arturio.dev/vasudev888)  
+ ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)
 <p align="center">
 <a href="https://vasudev888.github.io/">
     <img align="center" src="https://img.shields.io/badge/Portfolio-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=293B5F" /> </a>
