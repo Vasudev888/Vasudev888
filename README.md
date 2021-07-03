@@ -3,8 +3,6 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudev888)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=vasudev888&theme=highcontrast" alt="GitHub Streak" /></p>
 
-![alt text](https://media.giphy.com/media/rEYCDQ8Fe9owdrhknI/giphy.gif)
-
 <p align="center">
 <br> <a href="https://github.com/vasudev888">
     <img align="center" src="https://img.shields.io/badge/Preferred_Language-English-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=green" /> </a>
