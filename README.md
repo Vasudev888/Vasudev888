@@ -10,8 +10,8 @@
 <p align="center">
 <br> <a href="https://github.com/vasudev888">
     <img align="center" src="https://img.shields.io/badge/Preferred_Language-English-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=green" /> </a>
-<br> <a href="https://www.jetbrains.com/idea/">
-  <img align="center" src="https://img.shields.io/badge/Visual-STudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical" /> </a>
+<br> <a href="https://visualstudio.microsoft.com/downloads/">
+  <img align="center" src="https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical" /> </a>
  <a href="https://unity.com/">
     <img align="center" src="https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey" /> </a>
 </p>
