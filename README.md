@@ -36,7 +36,7 @@
 <!-- PyGameJam&langs_count=7 -->
 <p align="center">
 <a href="https://github.com/vasudev888">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev888&execlud=github-readme-stats&layout=compact&hide=ASP.net,ShaderLab,hlsl&theme=synthwave" /> </a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev888&execlud=github-readme-statslangs_count=7&layout=compact&hide=ASP.net,ShaderLab,hlsl&theme=synthwave" /> </a>
  <br>
 <a href="https://github.com/vasudev888">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudev888&hide_title=true&show_icons=true&theme=radical" /> </a>
