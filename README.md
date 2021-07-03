@@ -2,10 +2,9 @@
 <!-- ![vasudev888](<img src="https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif" width="800" height="400"/>) -->
 # <p align="center"> Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)</p>
 
-
+ ![Profile views](https://gpvc.arturio.dev/vasudev888)  
 <p align="center">
 <a href="https://vasudev888.github.io/">
-    ![Profile views](https://gpvc.arturio.dev/vasudev888)  
     <img align="center" src="https://img.shields.io/badge/Portfolio-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=293B5F" /> </a>
 <a href="https://www.linkedin.com/in/vasudev-kulkarni-a54643151/">
     <img align="center" src="https://img.shields.io/badge/Linkedin-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=0A66C2" /> </a>
