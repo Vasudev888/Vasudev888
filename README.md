@@ -3,7 +3,19 @@
 # <p align="center"> Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)</p>
 
 
+<p align="center">
+<a href="https://vasudev888.github.io/">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=293B5F" /> </a>
+<a href="https://www.linkedin.com/in/vasudev-kulkarni-a54643151/">
+    <img align="center" src="https://img.shields.io/badge/Linkedin-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=0A66C2" /> </a>
+<a href="https://www.facebook.com/vasudev.kulkarni/">
+    <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=0E8EF1" /> </a>
 
+<!-- <a href="https://www.hackerrank.com/Oknaa">
+    <img align="center" src="https://img.shields.io/badge/Hackerrank-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=2EC866" /> </a>
+<a href="https://hyperskill.org/profile/70430298">
+    <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a>  -->
+</p>
 
 
 
