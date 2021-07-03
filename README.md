@@ -2,7 +2,7 @@
 <!-- ![vasudev888](<img src="https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif" width="800" height="400"/>) -->
 # <p align="center"> Hi there 👋 </p>
 
- ![Profile views](https://gpvc.arturio.dev/vasudev888)  
+ <p align="center"> <a href="https://gpvc.arturio.dev/vasudev888"> </p>
  ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)
 <p align="center">
 <a href="https://vasudev888.github.io/">
