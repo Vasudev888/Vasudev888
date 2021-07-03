@@ -1,7 +1,9 @@
-#  <p align="center">Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)</p>
+#  <p align="center">Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)
+![Alt Text](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif)
+</p>
 
 
-<!-- ![Alt Text](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif) -->
+
 <!-- <img src="https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif" width="800" height="800" /> -->
 
 <!-- <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=vasudev888&theme=highcontrast" alt="GitHub Streak" /></p> -->
