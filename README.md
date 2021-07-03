@@ -1,5 +1,5 @@
 # <p align="center"> Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)</p>
-![vasudev888](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif)
+<p align="center">![vasudev888](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif) </p>
 
 
 
