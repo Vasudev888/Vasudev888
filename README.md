@@ -1,6 +1,6 @@
 <!-- ![vasudev888](https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif) -->
 <!-- ![vasudev888](<img src="https://github.com/Vasudev888/Vasudev888/blob/master/ezgif.com-gif-maker.gif" width="800" height="400"/>) -->
-# <p align="center"> Hi there 👋 </p>
+# <p align="center"> Hey there! 👋 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green" alt="vasudev888" /> </p>
 
@@ -18,6 +18,9 @@
 <a href="https://hyperskill.org/profile/70430298">
     <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a>  -->
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
