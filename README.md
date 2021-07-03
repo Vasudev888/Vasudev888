@@ -5,7 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green" alt="vasudev888" /> </p>
 
 <!--  <p align="center"> <a href="https://gpvc.arturio.dev/vasudev888"> </p> -->
- ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)
 <p align="center">
 <a href="https://vasudev888.github.io/">
     <img align="center" src="https://img.shields.io/badge/Portfolio-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=293B5F" /> </a>
