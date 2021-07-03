@@ -1,6 +1,6 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-vasudev888&color=green)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudev888)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudev888)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
 <br> <a href="https://github.com/vasudev888">
